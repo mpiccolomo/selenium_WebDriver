@@ -1,2 +1,3 @@
 # selenium_WebDriver
-introdaction LOCATOR : ID , ClassName , name , linkText , Xpath , Css .
+introduction LOCATOR : ID , ClassName , name , linkText , Xpath , Css .
+Automatically interact WITH THE BROWSER ACTIONS ON THE ELEMENTS (EMAIL, PASSWORD, CLICK ect)
